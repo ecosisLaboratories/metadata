@@ -7,11 +7,11 @@
     </h1>
     <div class="text-center">
       <button class="px-4 py-1 my-8 text-blue-200 font-semibold rounded-full border border-blue-400 hover:(text-white bg-blue-400 border-transparent) focus:(outline-none ring-2 ring-blue-300)">
-        Connect
+        Connect <fa icon="ethereum" />
       </button>
     </div>
-    <!-- <p class="text-center text-xs text-gray-500">
+    <p class="text-center text-xs text-gray-500">
       This is a prototype, use at your own risk.
-    </p> -->
+    </p>
   </div>
 </template>
